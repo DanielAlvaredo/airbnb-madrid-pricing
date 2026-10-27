@@ -119,3 +119,8 @@ Python (pandas, NumPy, matplotlib, statsmodels, scikit-learn), SQLite, Jupyter a
 ## Author
 
 Daniel Alvaredo López, Economics student. [Tableau Public profile](https://public.tableau.com/app/profile/daniel.alvaredo.l.pez)
+
+## License
+
+The code in this repository is released under the [MIT License](LICENSE).
+The data comes from [Inside Airbnb](https://insideairbnb.com/) and is subject to its own license (Creative Commons Attribution 4.0).
