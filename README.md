@@ -6,7 +6,7 @@ An end-to-end data analysis project: cleaning with Python and SQL, hedonic regre
 
 **Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/daniel.alvaredo.l.pez/viz/TouristRentalPricesinMadridAirbnb/TouristrentalpricesinMadrid)
 
-![Dashboard screenshot](img)
+![Dashboard screenshot](img/Dashboard.png)
 
 ---
 
